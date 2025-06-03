@@ -251,7 +251,6 @@ main {
 
 #contato p:first-of-type { /* Parágrafo introdutório da seção contato */
     text-align: center;
-    margin-bottom: calc(var(--spacing-unit) * 2);
     font-size: 1.1rem;
 }
 
